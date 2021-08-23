@@ -4,7 +4,7 @@
     "description": "Angular module to resize images down to a certain width and height or to reduce the quality to fit a certain maximal filesize - all in the browser.",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bergben/ng2-img-max.git"
+        "url": "git+https://github.com/oldschoolbg/ng2-img-max.git"
     },
     "license": "MIT",
     "main": "./dist/bundles/ng2-img-max.umd.js",
