@@ -6,6 +6,7 @@ I have forked this to upgrade to later versions. See below for a table of which 
 Angular Version Required | this package version to use
 --- | ---
 8.2.14 | 2.3.2
+9.1.13 | 2.4.0
 
 # ng2-img-max
 Angular 2 and beyond module to resize images down to a certain width and height or to reduce the quality to fit a certain maximal filesize - all in the browser.
