@@ -4,6 +4,7 @@
 I have forked this to upgrade to later versions. See below for a table of which version of ng2-img-max to use for different versions of Angular
 
 Angular Version Required | this package version to use
+--- | ---
 8.2.14 | 2.3.2
 
 # ng2-img-max
