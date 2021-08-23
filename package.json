@@ -1,5 +1,5 @@
 {
-    "name": "ng2-img-max",
+    "name": "@the_beard/ng2-img-max",
     "version": "2.2.4",
     "description": "Angular module to resize images down to a certain width and height or to reduce the quality to fit a certain maximal filesize - all in the browser.",
     "repository": {
@@ -17,8 +17,8 @@
         "build": "npm run transpile && npm run package && npm run minify"
     },
     "author": {
-        "name": "Benedikt Berger",
-        "email": "benedikt.berger@live.de"
+        "name": "Andrew Cox",
+        "email": "support@oldschool.site"
     },
     "keywords": [
         "angular",
